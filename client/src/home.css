@@ -1,0 +1,23 @@
+h1{
+    color : #fff;
+}
+.form{
+    position: absolute;
+    top : 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    border-radius: 5%;
+    height : 40vh;
+    width : 40vw;
+    background-color: #7289d9;
+    display: grid;
+    place-items: center;
+}
+
+button{
+    background: #fff;
+}
+input{
+    padding: 5px;
+    padding-left: 10px;
+}
